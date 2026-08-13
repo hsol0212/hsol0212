@@ -47,7 +47,7 @@
 - STM32F411을 이용한 CLI 시스템 및 디바이스 드라이버 구현
 
 **[3. ADAS Project](https://github.com/hsol0212/ADAS_PROJ)**
-- C++ 기반 ADAS(첨단 운전자 보조 시스템) 프로젝트
+- ADAS(첨단 운전자 보조 시스템) 프로젝트
 
 ### AI / Vision
 
