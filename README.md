@@ -69,6 +69,5 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsol0212&show_icons=true&theme=default&hide_border=true)
 
 </div>
