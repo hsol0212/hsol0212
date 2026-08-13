@@ -4,7 +4,6 @@
 
 **Embedded SW · Firmware Engineer**
 
-제한된 자원 속에서 예외 상황을 통제하고, 안정적으로 동작하는 시스템을 만듭니다.
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Verilog-FF6C37?style=for-the-badge">
 
